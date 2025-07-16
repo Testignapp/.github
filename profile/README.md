@@ -1,12 +1,31 @@
-## Hi there 👋
+👋 Welcome to My GitHub Profile!
+Hi, I'm Anna Petrova, a Software Developer passionate about building innovative web apps and exploring AI-driven solutions. I love creating tools that simplify workflows and experimenting with new tech.
+🚀 About Me
 
-<!--
+🌍 Based in Lisbon, Portugal
+💻 Currently working on a personal finance tracker app
+🌱 Learning Rust and GraphQL
+📫 Reach me at anna.petrova@example.com
+⚡ Fun fact: I’m an avid hiker and have climbed 12 peaks in the Alps
 
-**Here are some ideas to get you started:**
+🛠️ Tech Stack
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Languages: Python, JavaScript, TypeScript
+Frameworks: React, Flask, FastAPI
+Tools: Git, Docker, Webpack
+Databases: MongoDB, SQLite
+
+📈 GitHub Stats
+
+🏆 Featured Projects
+
+Taskify: A task management app built with React and Express
+StockPredict: A machine learning model for predicting stock trends using Python
+
+📫 Connect with Me
+
+LinkedIn
+Twitter
+Portfolio/Blog
+
+Thanks for visiting! Let's build something awesome together! 🚀
